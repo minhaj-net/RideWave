@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "International Transport",
+    "category": "Logistics",
+    "iconName": "Globe",
+    "image": "https://i.ibb.co.com/7xcB9BwG/38593081598d640c22f8ca34b6739e11.jpg",
+    "description": "At Ridewave, we revolutionize cargo services, prioritizing precision, efficiency, and worldwide connectivity. Our international transport solutions are designed to bridge the gap between global markets.",
+    "subDescription": "We handle all aspects of international shipping, from complex documentation to final delivery, ensuring your goods reach their destination safely.",
+    "details": "Our extensive network of global partners allows us to offer multimodal transport options that optimize for speed and cost. Whether by air, sea, or land, we ensure a seamless transition for your cargo across borders.",
+    "processImage": "https://i.ibb.co.com/VcGn1V1d/c7bb2a63e48e7bd1af703afd4ed364cc.jpg",
+    "features": [
+      "Global network spanning 150+ countries.",
+      "Customs clearance and compliance expertise.",
+      "Real-time tracking for every shipment.",
+      "Dedicated account managers for large enterprises."
+    ],
+    "client": "Global Trade Corp",
+    "location": "Worldwide",
+    "date": "Available 24/7",
+    "cost": "Varies by weight & route"
+  },
+  {
+    "id": 2,
+    "title": "Local Truck Transport",
+    "category": "Road Freight",
+    "iconName": "Truck",
+    "image": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?q=80&w=2075&auto=format&fit=crop",
+    "description": "Our local truck transport services provide reliable and timely delivery for your goods within the region. We prioritize speed and security for every local shipment.",
+    "subDescription": "With a diverse fleet of vehicles, we can handle everything from small parcels to full truckloads.",
+    "details": "We use advanced routing software to avoid traffic and optimize fuel efficiency, ensuring that your local deliveries are as cost-effective as they are fast.",
+    "processImage": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?q=80&w=2075&auto=format&fit=crop",
+    "features": [
+      "Same-day delivery options available.",
+      "Fleet ranging from vans to heavy-duty trucks.",
+      "Temperature-controlled transport for perishables.",
+      "Documented proof of delivery for every stop."
+    ],
+    "client": "Local Distributors Inc.",
+    "location": "Regional Hubs",
+    "date": "Daily",
+    "cost": "Flat rates available"
+  },
+  {
+    "id": 3,
+    "title": "Skyline Express",
+    "category": "Air Freight",
+    "iconName": "Plane",
+    "image": "https://i.ibb.co.com/SD1rVLmW/fb66dfaf36a4565d277e450bfc82fa39.jpg",
+    "description": "Skyline Express is our flagship air freight service, offering the fastest transit times for your most urgent shipments.",
+    "subDescription": "When time is of the essence, Skyline Express ensures your cargo is in the air within hours.",
+    "details": "We have priority arrangements with major airlines and operate our own fleet for key routes, providing unmatched reliability in air cargo.",
+    "processImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1978&auto=format&fit=crop",
+    "features": [
+      "Next-flight-out capabilities.",
+      "Priority handling at all airport terminals.",
+      "End-to-end security for high-value cargo.",
+      "Global sky network for seamless connections."
+    ],
+    "client": "Tech Innovators Ltd",
+    "location": "International Airports",
+    "date": "Immediate",
+    "cost": "Premium pricing"
+  },
+  {
+    "id": 4,
+    "title": "Rail Personal Delivery",
+    "category": "Rail Freight",
+    "iconName": "Train",
+    "image": "https://i.ibb.co.com/kgY6Hfn5/22b3e5604d7e2d6fc36ee13512ff7566.jpg",
+    "description": "Our rail freight services offer a sustainable and efficient alternative for long-distance transport, combining the reliability of rail with the convenience of personal delivery.",
+    "subDescription": "We bridge the gap between rail terminals and your doorstep.",
+    "details": "By utilizing the expansive rail network, we reduce the carbon footprint of your shipments while maintaining strict delivery schedules.",
+    "processImage": "https://i.ibb.co.com/kgY6Hfn5/22b3e5604d7e2d6fc36ee13512ff7566.jpg",
+    "features": [
+      "Cost-effective for heavy and bulk shipments.",
+      "Scheduled departures and arrivals.",
+      "Eco-friendly transport model.",
+      "Last-mile delivery integration."
+    ],
+    "client": "Industrial Partners Group",
+    "location": "Continental Rail Links",
+    "date": "Weekly",
+    "cost": "Economical long-haul rates"
+  },
+  {
+    "id": 5,
+    "title": "Multimodal Transport",
+    "category": "Logistics",
+    "iconName": "Box",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
+    "description": "Our multimodal transport solutions combine different modes of transport to provide the most efficient and cost-effective shipping for your complex logistics needs.",
+    "subDescription": "We optimize the entire journey, switching between air, sea, and land as needed.",
+    "details": "Our experts analyze your supply chain to identify the best combination of routes and modes, providing a single point of contact for the entire journey.",
+    "processImage": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
+    "features": [
+      "Seamless integration of different transport modes.",
+      "Reduced transit times and lower costs.",
+      "Single bill of lading for the entire journey.",
+      "Dynamic routing based on real-time data."
+    ],
+    "client": "Manufacturing Giants",
+    "location": "Global Routes",
+    "date": "On-demand",
+    "cost": "Optimized per route"
+  },
+  {
+    "id": 6,
+    "title": "E-commerce Logistics",
+    "category": "E-commerce",
+    "iconName": "ShoppingCart",
+    "image": "https://i.ibb.co.com/4RsXXH3c/1d7eb10959e3ea564e57c6920abd9bbe.jpg",
+    "description": "Our E-commerce Logistics services are tailored to the unique needs of online businesses, providing fast fulfillment and reliable delivery to your customers.",
+    "subDescription": "From storage to last-mile delivery, we power your online store.",
+    "details": "We offer integrated warehousing, picking, and packing specifically designed for high-volume E-commerce operations.",
+    "processImage": "https://i.ibb.co.com/4RsXXH3c/1d7eb10959e3ea564e57c6920abd9bbe.jpg",
+    "features": [
+      "Real-time integration with online platforms.",
+      "Scalable fulfillment solutions.",
+      "Efficient returns management systems.",
+      "White-glove delivery options."
+    ],
+    "client": "Online Retailers Hub",
+    "location": "Fulfillment Centers",
+    "date": "Same-day fulfillment",
+    "cost": "Scalable per unit"
+  }
+]

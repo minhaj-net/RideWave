@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes: mytheme;
+}
+
+@theme {
+    --color-primary: var(--primary);
+    --color-secondary: var(--secondary);
+    --color-accent: var(--accent);
+    --color-base-100: var(--base-100);
+    --animate-bounce-slow: bounce-slow 3s infinite;
+
+    @keyframes bounce-slow {
+        0%, 100% {
+            transform: translateY(-5%);
+            animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+        }
+        50% {
+            transform: translateY(0);
+            animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+        }
+    }
+}
+
+
+:root {
+    --primary: #08aae0;
+    --secondary: #116d8a;
+    --accent: #8ec7c7;
+    --base-100: #EBF4F6;
+}
+

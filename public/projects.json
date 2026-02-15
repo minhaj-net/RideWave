@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Ridewave Company",
+    "category": "Ocean",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
+    "client": "MSK Logistics",
+    "location": "4832 Max Street, Stamford",
+    "date": "18 August, 2024",
+    "cost": "125, 2000, 500",
+    "description": "Our Ocean Freight Services offer comprehensive solutions for all your shipping needs, ensuring your cargo is transported efficiently and safely across the seas, giving you peace of mind and the best results for your business. With our Ocean Freight Services, we handle all aspects of your sea shipping needs, documentation to delivery. With our Ocean Freight Services, we handle all aspects of your sea shipping needs.",
+    "subDescription": "With our Ocean Freight Services, we handle all aspects of your sea shipping needs, from documentation to delivery, ensuring your goods arrive on time and in excellent condition, allowing you to focus on your core business operations. helping you navigate the complexities of international trade.",
+    "details": "With our Ocean Freight Services, we handle all aspects of your sea shipping needs, from documentation to delivery, ensuring your goods arrive on time and in excellent condition, allowing you to focus on your core business operations. helping you navigate the complexities of international trade.",
+    "processImage": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
+    "features": [
+      "Ocean freight offers predictable transit times.",
+      "It remains one of the most economical.",
+      "Despite its scale, modern shipping companies",
+      "We are all about quality transport company"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Ridewave Company",
+    "category": "WareHouse",
+    "image": "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?q=80&w=2070&auto=format&fit=crop",
+    "client": "MSK Logistics",
+    "location": "4832 Max Street, Stamford",
+    "date": "18 August, 2024",
+    "cost": "125, 2000, 500",
+    "description": "Our Warehouse Services offer comprehensive solutions for all your storage needs, ensuring your cargo is stored efficiently and safely.",
+    "subDescription": "We handle all aspects of your warehousing needs, from documentation to inventory management.",
+    "details": "Our state-of-the-art warehouses are equipped to handle diverse types of cargo, providing both short-term and long-term storage solutions.",
+    "processImage": "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?q=80&w=2070&auto=format&fit=crop",
+    "features": [
+      "Climate controlled storage options.",
+      "24/7 security and monitoring.",
+      "Advanced inventory tracking systems.",
+      "Specialized handling for fragile items."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Air Freight Solution",
+    "category": "WareHouse",
+    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=2070&auto=format&fit=crop",
+    "client": "MSK Logistics",
+    "location": "4832 Max Street, Stamford",
+    "date": "18 August, 2024",
+    "cost": "125, 2000, 500",
+    "description": "Our Air Freight Services offer fast and reliable shipping for your time-sensitive cargo.",
+    "subDescription": "We ensure your goods are transported quickly and safely through our global air network.",
+    "details": "From small parcels to large industrial equipment, our air freight solutions are designed to meet your specific requirements.",
+    "processImage": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=2070&auto=format&fit=crop",
+    "features": [
+      "Global network of air cargo partners.",
+      "Real-time tracking and monitoring.",
+      "Customs clearance and documentation support.",
+      "Priority and express shipping options."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Security For Cargo",
+    "category": "Transport",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=2068&auto=format&fit=crop",
+    "client": "MSK Logistics",
+    "location": "4832 Max Street, Stamford",
+    "date": "18 August, 2024",
+    "cost": "125, 2000, 500",
+    "description": "We prioritize the security of your cargo during transit, using advanced monitoring and protection systems.",
+    "subDescription": "Our security services ensure your goods arrive safely and without compromise.",
+    "details": "We offer specialized security solutions for high-value and sensitive cargo, including armed escorts and secure storage.",
+    "processImage": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=2068&auto=format&fit=crop",
+    "features": [
+      "24/7 cargo monitoring and tracking.",
+      "Highly trained security personnel.",
+      "Secure transit and storage facilities.",
+      "Advanced theft prevention systems."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Warehouse Inventory",
+    "category": "WareHouse",
+    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?q=80&w=2070&auto=format&fit=crop",
+    "client": "MSK Logistics",
+    "location": "4832 Max Street, Stamford",
+    "date": "18 August, 2024",
+    "cost": "125, 2000, 500",
+    "description": "Efficient inventory management is key to a successful supply chain, and we provide advanced solutions to optimize your stock.",
+    "subDescription": "Our inventory services help you maintain optimal stock levels and reduce costs.",
+    "details": "We use cutting-edge technology to track and manage your inventory in real-time, providing visibility and control.",
+    "processImage": "https://images.unsplash.com/photo-1553413077-190dd305871c?q=80&w=2070&auto=format&fit=crop",
+    "features": [
+      "Real-time inventory tracking and reporting.",
+      "Automated stock replenishment systems.",
+      "Optimized warehouse layout and storage.",
+      "Specialized inventory management for various industries."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Ocean Inventory",
+    "category": "Air",
+    "image": "https://i.ibb.co.com/fzMhS7sP/6e40676ee8023e94ea2cae547b9c1274.jpg",
+    "client": "MSK Logistics",
+    "location": "4832 Max Street, Stamford",
+    "date": "18 August, 2024",
+    "cost": "125, 2000, 500",
+    "description": "Our Ocean Freight Services offer comprehensive solutions for all your shipping needs.",
+    "subDescription": "We handle all aspects of your ocean shipping needs, from documentation to delivery.",
+    "details": "We provide reliable and cost-effective ocean freight solutions for various types of cargo.",
+    "processImage": "https://i.ibb.co.com/fzMhS7sP/6e40676ee8023e94ea2cae547b9c1274.jpg",
+    "features": [
+      "Global network of ocean shipping lines.",
+      "Reliable and consistent transit times.",
+      "Customs clearance and documentation support.",
+      "Competitive pricing and flexible shipping options."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Warehouse Inventory",
+    "category": "WareHouse",
+    "image": "https://i.ibb.co.com/399c0jpF/47fcf0b46b9061a2227566f403bb5ecc.jpg",
+    "client": "MSK Logistics",
+    "location": "4832 Max Street, Stamford",
+    "date": "18 August, 2024",
+    "cost": "125, 2000, 500",
+    "description": "Efficient inventory management is key to a successful supply chain.",
+    "subDescription": "Our inventory services help you maintain optimal stock levels and reduce costs.",
+    "details": "We use cutting-edge technology to track and manage your inventory in real-time.",
+    "processImage": "https://i.ibb.co.com/399c0jpF/47fcf0b46b9061a2227566f403bb5ecc.jpg",
+    "features": [
+      "Real-time inventory tracking and reporting.",
+      "Automated stock replenishment systems.",
+      "Optimized warehouse layout and storage.",
+      "Specialized inventory management for various industries."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Warehouse Inventory",
+    "category": "Ocean",
+    "image": "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?q=80&w=2070&auto=format&fit=crop",
+    "client": "MSK Logistics",
+    "location": "4832 Max Street, Stamford",
+    "date": "18 August, 2024",
+    "cost": "125, 2000, 500",
+    "description": "Our Ocean Freight Services offer comprehensive solutions for all your shipping needs.",
+    "subDescription": "We handle all aspects of your ocean shipping needs, from documentation to delivery.",
+    "details": "We provide reliable and cost-effective ocean freight solutions for various types of cargo.",
+    "processImage": "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?q=80&w=2070&auto=format&fit=crop",
+    "features": [
+      "Global network of ocean shipping lines.",
+      "Reliable and consistent transit times.",
+      "Customs clearance and documentation support.",
+      "Competitive pricing and flexible shipping options."
+    ]
+  }
+]

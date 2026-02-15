@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Jenny Noah",
+    "role": "Head of operations",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1976&auto=format&fit=crop",
+    "bio": "Jenny oversees all logistical operations, ensuring maximum efficiency and client satisfaction across all global routes.",
+    "email": "jenny.noah@ridewave.com",
+    "phone": "+1 (555) 123-4567",
+    "skills": ["Operations Management", "Supply Chain Optimization", "Team Leadership"],
+    "experience": "10+ Years"
+  },
+  {
+    "id": 2,
+    "name": "Jenny Mache",
+    "role": "Head of operations",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1974&auto=format&fit=crop",
+    "bio": "Expert in warehouse management and process automation, Jenny streamlines our storage and distribution networks.",
+    "email": "jenny.mache@ridewave.com",
+    "phone": "+1 (555) 234-5678",
+    "skills": ["Warehouse Management", "Automation", "Inventory Control"],
+    "experience": "8+ Years"
+  },
+  {
+    "id": 3,
+    "name": "Sofia Melisa",
+    "role": "Project Manager",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop",
+    "bio": "Sofia manages complex logistics projects, coordinating between multiple departments to deliver on-time solutions.",
+    "email": "sofia.melisa@ridewave.com",
+    "phone": "+1 (555) 345-6789",
+    "skills": ["Project Management", "Strategic Planning", "Client Relations"],
+    "experience": "7+ Years"
+  },
+  {
+    "id": 4,
+    "name": "Shane Darren",
+    "role": "Head of operations",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=2070&auto=format&fit=crop",
+    "bio": "Shane focuses on international shipping and customs compliance, simplifying the global trade for our clients.",
+    "email": "shane.darren@ridewave.com",
+    "phone": "+1 (555) 456-7890",
+    "skills": ["International Shipping", "Customs Compliance", "Freight Forwarding"],
+    "experience": "12+ Years"
+  },
+  {
+    "id": 5,
+    "name": "Robert Fox",
+    "role": "Logistics Analyst",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1974&auto=format&fit=crop",
+    "bio": "Robert uses data-driven insights to optimize routes and reduce operational costs for our partners.",
+    "email": "robert.fox@ridewave.com",
+    "phone": "+1 (555) 567-8901",
+    "skills": ["Data Analysis", "Route Optimization", "Cost Management"],
+    "experience": "5+ Years"
+  },
+  {
+    "id": 6,
+    "name": "Dianne Russell",
+    "role": "Customer Support",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1976&auto=format&fit=crop",
+    "bio": "Dianne provides top-tier support, ensuring all client inquiries and concerns are addressed promptly and effectively.",
+    "email": "dianne.russell@ridewave.com",
+    "phone": "+1 (555) 678-9012",
+    "skills": ["Customer Relations", "Problem Solving", "Communication"],
+    "experience": "6+ Years"
+  },
+  {
+    "id": 7,
+    "name": "Cody Fisher",
+    "role": "Fleet Manager",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop",
+    "bio": "Cody maintains and manages our extensive fleet, ensuring all vehicles are in peak performance for every journey.",
+    "email": "cody.fisher@ridewave.com",
+    "phone": "+1 (555) 789-0123",
+    "skills": ["Fleet Maintenance", "Safety Compliance", "Resource Allocation"],
+    "experience": "9+ Years"
+  },
+  {
+    "id": 8,
+    "name": "Bessie Cooper",
+    "role": "Supply Chain Coordinator",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop",
+    "bio": "Bessie coordinates the supply chain from end to end, managing vendors and ensuring a seamless flow of goods.",
+    "email": "bessie.cooper@ridewave.com",
+    "phone": "+1 (555) 890-1234",
+    "skills": ["Supply Chain Coordination", "Vendor Management", "Logistics Planning"],
+    "experience": "7+ Years"
+  }
+]
