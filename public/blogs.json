@@ -1,0 +1,238 @@
+[
+  {
+    "id": 1,
+    "title": "The Impact of E-Commerce on Global Cargo Demand",
+    "author": "Adam Smith",
+    "date": "07 Nov, 2025",
+    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=2070&auto=format&fit=crop",
+    "category": "Logistics",
+    "description": "Logistics industry is witnessing a significant shift due to the rise of e-commerce. As consumers increasingly turn to online shopping, the demand for fast and reliable cargo services has reached new heights.",
+    "subDescription": "This trend is driving innovation in last-mile delivery and warehouse automation, ensuring that products reach customers faster than ever before.",
+    "sections": [
+      {
+        "heading": "Warehouse On-Hand Inventory",
+        "content": "Efficient warehouse management is crucial for meeting e-commerce demands. Automation and real-time tracking are key components in modern logistics strategies.",
+        "images": [
+          "https://images.unsplash.com/photo-1553413077-190dd305871c?q=80&w=2070&auto=format&fit=crop",
+          "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop"
+        ]
+      },
+      {
+        "heading": "Rising Demand for Speed & Efficiency",
+        "content": "The push for faster delivery times is reshaping the logistics landscape. Companies are investing heavily in technologies that optimize routes and reduce transit times.",
+        "features": [
+          "Real-time tracking and visibility.",
+          "Automated sorting and high-speed fulfillment centers.",
+          "Last-mile delivery optimization through AI.",
+          "Sustainable and eco-friendly transport options."
+        ],
+        "sideImage": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=2068&auto=format&fit=crop"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "author": "Maria Marta",
+        "date": "08 Nov, 2025",
+        "avatar": "https://i.pravatar.cc/150?u=maria",
+        "text": "The insights provided here are incredibly valuable. The shift toward automation is definitely a game-changer for the industry."
+      },
+      {
+        "id": 2,
+        "author": "Kallan Smith",
+        "date": "09 Nov, 2025",
+        "avatar": "https://i.pravatar.cc/150?u=kallan",
+        "text": "Great article! The point about last-mile delivery optimization is spot on. It's often the most challenging part of the entire process."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Modernizing Logistics with Smart AI Integration",
+    "author": "John Doe",
+    "date": "10 Nov, 2025",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
+    "category": "Technology",
+    "description": "Discover how AI is transforming the way we handle cargo, optimize routes, and predict delivery times with unprecedented accuracy."
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Trends in Sustainable Freight for 2026",
+    "author": "Sarah Connor",
+    "date": "12 Nov, 2025",
+    "image": "https://images.unsplash.com/photo-1494412574742-97ccc8309995?q=80&w=2070&auto=format&fit=crop",
+    "category": "Sustainability",
+    "description": "Sustainability is no longer optional. Learn about the top trends driving the green revolution in the freight industry."
+  },
+  {
+    "id": 4,
+    "title": "Navigating Global Trade Uncertainties",
+    "author": "Michael Scott",
+    "date": "15 Nov, 2025",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1978&auto=format&fit=crop",
+    "category": "Business",
+    "description": "Expert advice on how businesses can stay resilient during global trade fluctuations and supply chain disruptions."
+  },
+  {
+    "id": 5,
+    "title": "The Future of Rail Freight in Urban Landscapes",
+    "author": "Emily Blunt",
+    "date": "18 Nov, 2025",
+    "image": "https://images.unsplash.com/photo-1474487548417-781f37a96df4?q=80&w=2084&auto=format&fit=crop",
+    "category": "Infastructure",
+    "description": "Rail freight is making a comeback in urban logistics. We explore the benefits and challenges of this traditional yet modernized mode of transport."
+  },
+  {
+    "id": 6,
+    "title": "E-commerce Logistics: Scaling Beyond Boundaries",
+    "author": "David Beckham",
+    "date": "20 Nov, 2025",
+    "image": "https://images.unsplash.com/photo-1566576721346-d4a3b4eaad21?q=80&w=2165&auto=format&fit=crop",
+    "category": "E-commerce",
+    "description": "How e-commerce giants are optimizing their last-mile delivery to provide seamless customer experiences globally."
+  },
+  {
+    "id": 7,
+    "title": "Warehouse Automation: The Robotic Revolution",
+    "author": "Elon Tusk",
+    "date": "22 Nov, 2025",
+    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?q=80&w=2070&auto=format&fit=crop",
+    "category": "Automation",
+    "description": "Robots are taking over mundane warehouse tasks. Explore the impact of robotics on efficiency and worker safety."
+  },
+  {
+    "id": 8,
+    "title": "Customs Compliance: A Guide for Exporters",
+    "author": "Angela Merkel",
+    "date": "25 Nov, 2025",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=2068&auto=format&fit=crop",
+    "category": "Compliance",
+    "description": "A comprehensive guide to navigating international customs regulations and ensuring smooth border crossings for your cargo."
+  },
+  {
+    "id": 9,
+    "title": "The Impact of BlockChain on Supply Chain Transparency",
+    "author": "Satoshi Nakamoto",
+    "date": "28 Nov, 2025",
+    "image": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?q=80&w=2075&auto=format&fit=crop",
+    "category": "Blockchain",
+    "description": "Blockchain is more than just crypto. It's the key to achieving full transparency and traceability in global supply chains."
+  },
+  {
+    "id": 10,
+    "title": "Optimizing Ocean Freight: Speed vs. Cost",
+    "author": "Jack Sparrow",
+    "date": "01 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
+    "category": "Marine",
+    "description": "How to strike the perfect balance between transit time and shipping costs when choosing ocean freight solutions."
+  },
+  {
+    "id": 11,
+    "title": "Cold Chain Logistics: Protecting Perishables",
+    "author": "Ice T",
+    "date": "03 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?q=80&w=2070&auto=format&fit=crop",
+    "category": "Logistics",
+    "description": "Explore the specialized technologies and strict protocols used to maintain the integrity of temperature-sensitive cargo."
+  },
+  {
+    "id": 12,
+    "title": "Intermodal Transport: The Best of All Worlds",
+    "author": "Tony Stark",
+    "date": "05 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=2070&auto=format&fit=crop",
+    "category": "Transport",
+    "description": "Combining air, sea, and land transport can lead to significant cost savings and faster deliveries. Here's how to do it right."
+  },
+  {
+    "id": 13,
+    "title": "Air Freight Security: Staying Ahead of Risks",
+    "author": "Bruce Wayne",
+    "date": "07 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1978&auto=format&fit=crop",
+    "category": "Security",
+    "description": "Advanced screening and monitoring systems are essential for secure air cargo operations. Learn about the latest innovations."
+  },
+  {
+    "id": 14,
+    "title": "The Role of Data Analytics in Route Optimization",
+    "author": "Bill Gates",
+    "date": "10 Dec, 2025",
+    "image": "https://i.ibb.co.com/fzMhS7sP/6e40676ee8023e94ea2cae547b9c1274.jpg",
+    "category": "Analytics",
+    "description": "Big data is helping logistics companies reduce fuel consumption and delivery times through intelligent route planning."
+  },
+  {
+    "id": 15,
+    "title": "Last-Mile Delivery: The Drone Frontier",
+    "category": "Drones",
+    "author": "Jeff Bezos",
+    "date": "12 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=2068&auto=format&fit=crop",
+    "description": "Are drones the future of delivery? We look at the current state of drone technology and the regulatory hurdles that remain."
+  },
+  {
+    "id": 16,
+    "title": "Freight Forwarding: Choosing the Right Partner",
+    "author": "Warren Buffet",
+    "date": "15 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?q=80&w=2070&auto=format&fit=crop",
+    "category": "Partnership",
+    "description": "A guide to selecting the best freight forwarder for your business, focusing on reliability, network, and communication."
+  },
+  {
+    "id": 17,
+    "title": "The Circular Economy in Logistics",
+    "author": "Greta Thunberg",
+    "date": "18 Dec, 2025",
+    "image": "https://i.ibb.co.com/399c0jpF/47fcf0b46b9061a2227566f403bb5ecc.jpg",
+    "category": "Green",
+    "description": "Reducing waste and reusing resources is becoming a priority in logistics. Explore how the circular economy is being implemented."
+  },
+  {
+    "id": 18,
+    "title": "Smart Ports: The Future of Maritime Trade",
+    "author": "Poseidon",
+    "date": "20 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
+    "category": "Marine",
+    "description": "Ports are becoming smarter with IoT and automation. Learn how these innovations are streamlining global maritime trade."
+  },
+  {
+    "id": 19,
+    "title": "Global Supply Chain Resilience Post-Pandemic",
+    "author": "Dr. Fauci",
+    "date": "22 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?q=80&w=2070&auto=format&fit=crop",
+    "category": "Resilience",
+    "description": "Lessons learned from the global pandemic and how to build more resilient supply chains for the future."
+  },
+  {
+    "id": 20,
+    "title": "The Impact of 5G on Real-Time Cargo Tracking",
+    "author": "Tim Cook",
+    "date": "25 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?q=80&w=2075&auto=format&fit=crop",
+    "category": "Telecomm",
+    "description": "5G technology is enabling unprecedented levels of real-time tracking and monitoring for cargo globally."
+  },
+  {
+    "id": 21,
+    "title": "The Impact of 5G on Real-Time Cargo Tracking",
+    "author": "Tim Cook",
+    "date": "25 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?q=80&w=2075&auto=format&fit=crop",
+    "category": "Telecomm",
+    "description": "5G technology is enabling unprecedented levels of real-time tracking and monitoring for cargo globally."
+  },
+  {
+    "id": 22,
+    "title": "The Impact of 5G on Real-Time Cargo Tracking",
+    "author": "Tim Cook",
+    "date": "25 Dec, 2025",
+    "image": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?q=80&w=2075&auto=format&fit=crop",
+    "category": "Telecomm",
+    "description": "5G technology is enabling unprecedented levels of real-time tracking and monitoring for cargo globally."
+  }
+]
